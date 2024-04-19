@@ -11,7 +11,7 @@ This Python script allows you to perform text replacement in a Microsoft Word do
 3. Place the input Word document named `input.docx` in the same directory as the script.
 4. Run the script with the following command, replacing `<new_text>` with the text you want to replace the old text with:
 
-Example:
+Example: % python getCoverLetter.py New_Company_Name
 
 5. The script will replace the old text ("Company Name") in the input Word document with the new text provided and save the modified document as `<new_text>.docx` in the same directory.
 
